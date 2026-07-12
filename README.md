@@ -94,10 +94,6 @@ The final output is a cleaned dataset with:
 * Advanced anomaly detection
 * Integration with cloud data pipelines
 
-## sceenshot
-
-[App Screenshot](output.png)
-
 ## Author
 
 **Taruni Babu**
