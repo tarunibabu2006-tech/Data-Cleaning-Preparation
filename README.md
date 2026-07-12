@@ -96,7 +96,7 @@ The final output is a cleaned dataset with:
 
 ## sceenshot
 
-output[output.png]
+[App Screenshot](output.png)
 
 ## Author
 
