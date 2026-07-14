@@ -1,5 +1,9 @@
 # Data Cleaning & Preparation
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://data-cleaning-preparation-sdynifvtsp9t9vjf89tonh.streamlit.app/)
+
+✨ **Live Web Application**: [Click here to view the Interactive Data Cleaning & EDA Dashboard](https://data-cleaning-preparation-sdynifvtsp9t9vjf89tonh.streamlit.app/)
+
 ## Project Overview
 
 This project focuses on cleaning and preparing raw data for analysis. Data quality is a critical step in the Data Analytics lifecycle, as inaccurate or incomplete data can lead to misleading insights and poor decision-making.
