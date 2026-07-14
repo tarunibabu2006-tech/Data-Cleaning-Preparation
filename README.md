@@ -100,7 +100,7 @@ The final output is a cleaned dataset with:
 
 ## Author
 
-**Taruni Babu**
+**Tarunika Babu**
 
 Data Analytics Intern
 
