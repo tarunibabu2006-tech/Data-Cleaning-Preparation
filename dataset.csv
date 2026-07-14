@@ -1,0 +1,13 @@
+ID,Name,Age,City,Score,Date
+1,Alice,24.0,New York,85.5,2023-01-01
+2,Bob,30.0,London,78.0,2023-01-02
+3,Charlie,,Paris,92.1,2023-01-03
+4,David,28.0,Tokyo,70.3,2023-01-04
+5,Eve,35.0,Berlin,,2023-01-05
+6,Frank,40.0,Rome,88.9,2023-01-06
+7,Grace,22.0,Madrid,95.0,2023-01-07
+8,Heidi,,London,65.2,2023-01-08
+9,Ivan,31.0,Paris,81.7,2023-01-09
+10,Judy,29.0,New York,74.4,2023-01-10
+1,Alice,24.0,New York,85.5,2023-01-01
+2,Bob,30.0,London,78.0,2023-01-02
